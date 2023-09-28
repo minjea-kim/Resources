@@ -10,3 +10,10 @@
 |[PiXimperfect ](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)|Photoshop Tutorials|
 |[Creatnprocess](https://www.youtube.com/c/creatnprocess/featured)|Abstract Effects|
 |[Envato ](https://www.youtube.com/c/envato/videos)|General Tutorials of many software|
+
+
+## Davinci
+| Name                                | Description                                          | Link                                                 |
+|:----------------------------------- |:----------------------------------------------------:| ----------------------------------------------------:|
+|[Sergio Mota](https://www.youtube.com/@SergiomotaENG)||
+|[Casery Faris](https://www.youtube.com/@CaseyFaris)||
