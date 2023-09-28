@@ -1,6 +1,6 @@
 ## YouTube Channels
-| Name                                | Description                                          | Link                                                 |
-|:----------------------------------- |:----------------------------------------------------:| ----------------------------------------------------:|
+| Name                                | Description                                          | 
+|:----------------------------------- |:----------------------------------------------------:| 
 |[Satori Graphics](https://www.youtube.com/channel/UCoeJKtPJLoIBqWq4o8TDLpA)||
 |[Yes I’m a Designer](https://www.youtube.com/channel/UCT_of6HCtVZFpnnnLUeAGYA)||
 |[Design Sense](https://www.youtube.com/c/DesignSense/videos)|Design Trends|
@@ -13,7 +13,6 @@
 
 
 ## Davinci
-| Name                                | Description                                          | Link                                                 |
-|:----------------------------------- |:----------------------------------------------------:| ----------------------------------------------------:|
-|[Sergio Mota](https://www.youtube.com/@SergiomotaENG)||
+| Name                                | Description                                          | 
+|:----------------------------------- |:----------------------------------------------------:| 
 |[Casery Faris](https://www.youtube.com/@CaseyFaris)||
