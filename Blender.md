@@ -1,4 +1,4 @@
 ## YouTube Channels
-| Name                                | Description                                          | Link                                                 |
-|:----------------------------------- |:----------------------------------------------------:| ----------------------------------------------------:|
-| CrossMind Studio | Beginner to Advanced tutorials| [https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw](https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw)
+| Name                                | Description                                          |                                            |
+|:----------------------------------- |:----------------------------------------------------:|
+| (CrossMind Studio)[https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw] | Beginner to Advanced tutorials| 
