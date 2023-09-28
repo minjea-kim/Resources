@@ -13,3 +13,9 @@
 |[atti](https://www.youtube.com/@attimp4/videos)| Materials, generic tutorials|
 |[Andrey Lebrov](https://www.youtube.com/@AndreyLebrov/videos)|3D Professional Giving Insights|
 |[Blender Made Easy](https://www.youtube.com/watch?v=xrw7-cbtQBA&t=535s)|Focused Tutorials|
+|[maxhayart](https://www.youtube.com/watch?v=dEybjA6G5Lg&t=2s)|Famous Instagram 3D Artist, tutorials|
+|[Blender Secrets]( https://www.youtube.com/c/BlenderSecrets/videos)|Small tutorials|
+|[Ian Hubert](https://www.youtube.com/user/mrdodobird)|Small tutorials|
+|[Daniel Bystedt](https://www.youtube.com/channel/UC5i9q7lTE1Ad6lK-PTGROhg)|Artist whose art is on Blender splashscreen, advanced tutorials|
+|[James Gambrell](https://www.youtube.com/watch?v=D-6V6pmj6iw)|Hard Surface Modelling|
+|[2D Blender](https://www.youtube.com/channel/UCkSZbjB0mf72Td1jRuLL9qQ)|2D Blender|
