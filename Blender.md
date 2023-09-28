@@ -1,4 +1,4 @@
-| Class                 | Description         | Subclasses |
-|:--------------------- |:-------------------:| ----------:|
-| X                     | Some Description    | [Y](#Y)                    |
-| <span id="Y">Y</span> | Another Description | -          |
+## YouTube Channels
+| Name                                | Description                                          | Link                                                 |
+|:----------------------------------- |:----------------------------------------------------:| ----------------------------------------------------:|
+|TEST                                 |TEST2                                                 | TEST3                                                |
