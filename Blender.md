@@ -25,11 +25,7 @@
 ## Misc.
 | Name                                | Description                                          |     
 |:----------------------------------- |:----------------------------------------------------:|
-|[100 Day Project](https://medium.com/the-100-day-project/100-days-of-3d-4b28a514f3ac
-)|How to get started in 3D|
-|[HDRI Haven]( https://polyhaven.com/
-)|HDRIs|
+|[100 Day Project](https://medium.com/the-100-day-project/100-days-of-3d-4b28a514f3ac)|How to get started in 3D|
+|[HDRI Haven]( https://polyhaven.com/)|HDRIs|
 |[Plugins](https://www.vfxmed.com/category/downloads/)|Free Plugins|
-|[ Photorealism Lecture
-](https://www.youtube.com/watch?v=Z8AAX-ENWvQ&t=555s
-)|Good overview of Photorealism|
+|[Photorealism Lecture](https://www.youtube.com/watch?v=Z8AAX-ENWvQ&t=555s)|Good overview of Photorealism|
