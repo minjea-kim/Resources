@@ -12,5 +12,4 @@
 |[Ryan King Art](https://www.youtube.com/watch?v=MBy62M7TcgY&t=108s)| Advanced tutorials about specific topics|
 |[atti](https://www.youtube.com/@attimp4/videos)| Materials, generic tutorials|
 |[Andrey Lebrov](https://www.youtube.com/@AndreyLebrov/videos)|3D Professional Giving Insights|
-|[Blender Made Easy](https://www.youtube.com/watch?v=xrw7-cbtQBA&t=535s
-)https://www.youtube.com/watch?v=xrw7-cbtQBA&t=535s|Focused Tutorials|
+|[Blender Made Easy](https://www.youtube.com/watch?v=xrw7-cbtQBA&t=535s)|Focused Tutorials|
