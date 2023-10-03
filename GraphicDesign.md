@@ -12,6 +12,16 @@
 |[Envato ](https://www.youtube.com/c/envato/videos)|General Tutorials of many software|
 
 
+## Web Design
+| Name                                | Description                                          | 
+|[Book of Shaders](https://thebookofshaders.com/02/)||
+|[The Art of Code](https://www.youtube.com/c/TheArtofCodeIsCool/videos)||
+|[Big Book of Tips](https://discoverthreejs.com/tips-and-tricks)||
+|[Flux](https://www.youtube.com/c/FluxWithRanSegall/videos)||
+|[Codegrid](https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw)||
+|[Cuberto Design](https://www.youtube.com/channel/UCzestFrXpwSGCfcbO2pObwQ)||
+|[Hyperplexed](https://www.youtube.com/@Hyperplexed/videos)||
+
 ## Davinci
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
