@@ -3,11 +3,13 @@
 |:----------------------------------- |:----------------------------------------------------:| 
 |[Pugetsound](http://musictheory.pugetsound.edu/mt21c/SimpleSusChords.html)||
 |[SignalsMusicStudio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA)||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-
+|[CountryGuitarOnline](https://countryguitaronline.com/chords-in-each-major-key/)|Chords in each Major key|
+|[Jazz Theory](https://www.youtube.com/@Learnjazzstandards)||
+|[Walk That Bass](https://www.youtube.com/@WalkThatBass/videos)|Piano and Music Theory|
+|[Jazz Tutoria](https://www.youtube.com/user/jazztutorial)||
+|[12tone](https://www.youtube.com/watch?v=JtRvGL-fJmY&list=PLMvVESrbjBWplAcg3pG0TesncGT7qvO06&index=12)||
+|[Pianote](https://www.youtube.com/watch?v=vzujwexshe4)||
+|[Music Theory Lessons](https://www.musictheory.net/lessons)|Websites|
 
 ## Guitar
 | Name                                | Description                                          | 
@@ -24,16 +26,24 @@
 
 
 
-## YouTube Channels
+## Producing
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-
+|[Write a Song](https://www.youtube.com/c/SongwritingExplained/videos)| Good shorts about chords|
+|[Aiden Kenway](https://www.youtube.com/c/AidenKenway/videos)|Breakdowns / Recreations|
+|[Disclosure](https://www.youtube.com/channel/UCTyZ4LCVRiCEVfkVqdi0m3A)|Breakdowns|
+|[Songwriting Explained](https://www.youtube.com/c/SongwritingExplained/videos)||
+|[93 Acres](https://www.youtube.com/c/93Acres/videos)|Song Remakes|
+|[InTheMix ](https://www.youtube.com/watch?v=TkTZLblecPM&list=PLx5i827-FDqPiLPjGxlUv3gjq7uCEVVfl&index=3)|FL Studio / General Mixing Tutorials|
+|[Point Blank School of Music](https://www.youtube.com/pointblank)|remakes |
+|[Big Z](https://www.youtube.com/watch?v=0ZOx2o_2Zfw)|Advanced Tutorials|
+|[Vories](https://www.youtube.com/watch?v=whR68nqdMEg)||
+|[Make Pop Music](https://www.youtube.com/watch?v=_xBAbfy_9SI)||
+|[Sadowick](https://www.youtube.com/channel/UCj0-W75RL3AS_psDlWBqu1w)||
+|[You Suck At Producing](https://www.youtube.com/channel/UCapo4XcpVOlTLkbKIDL0WlA)||
+|[Hack Music Theory](https://www.youtube.com/channel/UCDKiHSPstsj0silp519gt6w)||
+|[On Cloud Sine](https://www.youtube.com/watch?v=Te6TQKyh9AE&list=PL-NzMNM2cyt87h2NL4_umddmBOd0WZ2_d&index=9)|Serum Tutorial|
+|[Zen World](https://www.youtube.com/watch?v=62MybyWU398&list=PLrqs7vRFQ4rbeHxoDJHDGL3UkHgbcLZ62&index=1)|Serum Tutorial|
 
 
 ## YouTube Channels
