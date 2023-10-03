@@ -14,6 +14,7 @@
 
 ## Web Design
 | Name                                | Description                                          | 
+|:----------------------------------- |:----------------------------------------------------:| 
 |[Book of Shaders](https://thebookofshaders.com/02/)||
 |[The Art of Code](https://www.youtube.com/c/TheArtofCodeIsCool/videos)||
 |[Big Book of Tips](https://discoverthreejs.com/tips-and-tricks)||
@@ -28,3 +29,9 @@
 |[Sergio Mota](https://www.youtube.com/@CaseyFaris](https://www.youtube.com/@SergiomotaENG))||
 |[Casery Faris](https://www.youtube.com/@CaseyFaris)||
 |[Waqas Qazi](https://www.youtube.com/@theqazman/videos)|Advanced DaVinco Color Grading|
+
+## Resources
+| Name                                | Description                                          | 
+|:----------------------------------- |:----------------------------------------------------:| 
+|[Icons / SVGs](https://iconscout.com/icons/)||
+
