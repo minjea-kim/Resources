@@ -22,7 +22,7 @@
 |[Shell Chords](https://www.jazz-guitar-licks.com/blog/lessons/shell-chords.html)||
 |[Shell Chords](https://www.jazzguitar.be/blog/shell-jazz-guitar-chords-beginners/)||
 |[Seventh Chords](https://www.guitar-chord.org/7.html)||
-|[]()||
+|[Guitar Chords](https://www.guitar-chord.org/c.htm)||
 
 
 
