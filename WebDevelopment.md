@@ -20,3 +20,4 @@
 |[Patterns.dev](https://www.patterns.dev/resources)|     |
 |[SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)|     |
 |[Fundamental JS concepts](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)|     |
+|[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)|Book|
