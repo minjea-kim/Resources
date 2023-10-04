@@ -29,3 +29,6 @@
 |[HDRI Haven]( https://polyhaven.com/)|HDRIs|
 |[Plugins](https://www.vfxmed.com/category/downloads/)|Free Plugins|
 |[Photorealism Lecture](https://www.youtube.com/watch?v=Z8AAX-ENWvQ&t=555s)|Good overview of Photorealism|
+|[SketchFab](https://sketchfab.com/feed)|#d models|
+|[Rokoku](https://www.rokoko.com/)|AI Video to Animation|
+|[Mixamo](https://www.mixamo.com/)|Adobe Free Character Rig|
