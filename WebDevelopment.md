@@ -9,6 +9,8 @@
 |[Java Brains](https://www.youtube.com/watch?v=1vjOv_f9L8I)|     |
 |[Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)|  Professionals Discussing Topics   |
 |[ColorCode](https://www.youtube.com/@ColorCodeio/videos)|  Javascript Concepts  |
+|[CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)|Concepts|
+|[Coding with John](https://www.youtube.com/@CodingWithJohn/videos)|Concepts|
 
 ## Misc.
 | Name                                | Description                                          | 
@@ -21,4 +23,3 @@
 |[SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)|     |
 |[Fundamental JS concepts](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)|     |
 |[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)|Book|
-|[CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)|Concepts|
