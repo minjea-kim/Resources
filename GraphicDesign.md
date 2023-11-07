@@ -29,6 +29,7 @@
 |[Sergio Mota](https://www.youtube.com/@CaseyFaris](https://www.youtube.com/@SergiomotaENG))||
 |[Casery Faris](https://www.youtube.com/@CaseyFaris)||
 |[Waqas Qazi](https://www.youtube.com/@theqazman/videos)|Advanced DaVinco Color Grading|
+|[EposVox - Exporting](https://www.youtube.com/watch?v=AroeEgpwY7M)||
 
 ## Resources
 | Name                                | Description                                          | 
