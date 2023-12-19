@@ -30,6 +30,7 @@
 |[Casery Faris](https://www.youtube.com/@CaseyFaris)||
 |[Waqas Qazi](https://www.youtube.com/@theqazman/videos)|Advanced DaVinco Color Grading|
 |[EposVox - Exporting](https://www.youtube.com/watch?v=AroeEgpwY7M)||
+|[Best DaVinci Functions](https://www.youtube.com/watch?v=DYU3YvK56mo)||
 
 ## Resources
 | Name                                | Description                                          | 
