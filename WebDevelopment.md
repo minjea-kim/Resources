@@ -11,7 +11,7 @@
 |[ColorCode](https://www.youtube.com/@ColorCodeio/videos)|  Javascript Concepts  |
 |[CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)|Concepts|
 |[Coding with John](https://www.youtube.com/@CodingWithJohn/videos)|Concepts|
-|[Byte2Byte](https://www.youtube.com/@ByteByteGo)|Good backend videos|
+|[ByteByteGo](https://www.youtube.com/@ByteByteGo)|Good backend videos|
 
 ## Misc.
 | Name                                | Description                                          | 
