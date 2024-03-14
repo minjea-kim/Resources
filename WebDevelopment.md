@@ -11,6 +11,7 @@
 |[ColorCode](https://www.youtube.com/@ColorCodeio/videos)|  Javascript Concepts  |
 |[CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)|Concepts|
 |[Coding with John](https://www.youtube.com/@CodingWithJohn/videos)|Concepts|
+|[Byte2Byte](https://www.youtube.com/@ByteByteGo)|Good backend videos|
 
 ## Misc.
 | Name                                | Description                                          | 
@@ -24,3 +25,4 @@
 |[Fundamental JS concepts](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)|     |
 |[You Don't Know JS 2nd Edition](https://github.com/getify/You-Dont-Know-JS)|Book|
 |[You Don't Know JS 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)|Book|
+
