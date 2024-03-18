@@ -32,3 +32,4 @@
 |[SketchFab](https://sketchfab.com/feed)|3D models|
 |[Rokoku](https://www.rokoko.com/)|AI Video to Animation|
 |[Mixamo](https://www.mixamo.com/)|Adobe Free Character Rig|
+|[Blender to Unreal Engine 5 workflow](https://www.youtube.com/watch?v=Q9HNRzgRT5E)|Very useful, formats into .usd file|
