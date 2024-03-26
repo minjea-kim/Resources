@@ -19,7 +19,7 @@
 |[Rendering in Unreal](https://www.youtube.com/watch?v=QFTfGQgiGBw)||
 |[Add shot name to Render file](https://www.youtube.com/watch?v=9wKHGXZFA78&t=290s)||
 |[Blender to Unreal Engine 5 workflow](https://www.youtube.com/watch?v=Q9HNRzgRT5E)|Very useful, formats into .usd file|
-|[]()||
+|[Unreal Engine 5 - VR Beginner Course](https://www.youtube.com/watch?v=wqjJU4V6bGM&t=10664s)||
 |[]()||
 |[]()||
 
