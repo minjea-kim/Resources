@@ -14,6 +14,7 @@
 ## Guitar
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:|
+|[Samjamguitar](https://www.youtube.com/@Samjamguitar/videos)|Tutorials|
 |[Scott Paul Johnson](https://www.youtube.com/channel/UCM7inNEZgbA3_ZPp2D6IAlw)||
 |[Paul Davids](https://www.youtube.com/c/PaulDavids/videos)||
 |[Jens Larsen](https://www.youtube.com/channel/UCqepSCHTyWj4BzHxEEUNvlg)||
