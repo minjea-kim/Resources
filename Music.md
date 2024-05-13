@@ -1,6 +1,7 @@
 ## General Music Theory
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
+|[Adam Neely](https://www.youtube.com/watch?v=lz3WR-F_pnM)|Lessons|
 |[Pugetsound](http://musictheory.pugetsound.edu/mt21c/SimpleSusChords.html)||
 |[SignalsMusicStudio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA)||
 |[CountryGuitarOnline](https://countryguitaronline.com/chords-in-each-major-key/)|Chords in each Major key|
@@ -24,6 +25,7 @@
 |[Shell Chords](https://www.jazzguitar.be/blog/shell-jazz-guitar-chords-beginners/)||
 |[Seventh Chords](https://www.guitar-chord.org/7.html)||
 |[Guitar Chords](https://www.guitar-chord.org/c.htm)||
+
 
 
 
