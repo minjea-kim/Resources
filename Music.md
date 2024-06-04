@@ -11,6 +11,7 @@
 |[12tone](https://www.youtube.com/watch?v=JtRvGL-fJmY&list=PLMvVESrbjBWplAcg3pG0TesncGT7qvO06&index=12)||
 |[Pianote](https://www.youtube.com/watch?v=vzujwexshe4)||
 |[Music Theory Lessons](https://www.musictheory.net/lessons)|Websites|
+|[Doctorate in Jazz in 15 Minutes](https://www.youtube.com/watch?v=GavBrneouV4)|Overview of concepts|
 
 ## Guitar
 | Name                                | Description                                          | 
