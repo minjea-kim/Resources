@@ -12,6 +12,7 @@
 |[Pianote](https://www.youtube.com/watch?v=vzujwexshe4)||
 |[Music Theory Lessons](https://www.musictheory.net/lessons)|Websites|
 |[Doctorate in Jazz in 15 Minutes](https://www.youtube.com/watch?v=GavBrneouV4)|Overview of concepts|
+| [Easy way to remember pentatonic scale](https://www.youtube.com/watch?v=Vj-BOmKgdE4&t=34s)|Pentatonic Scale for Piano|
 
 ## Guitar
 | Name                                | Description                                          | 
