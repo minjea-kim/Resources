@@ -13,6 +13,17 @@
 |[Music Theory Lessons](https://www.musictheory.net/lessons)|Websites|
 |[Doctorate in Jazz in 15 Minutes](https://www.youtube.com/watch?v=GavBrneouV4)|Overview of concepts|
 | [Easy way to remember pentatonic scale](https://www.youtube.com/watch?v=Vj-BOmKgdE4&t=34s)|Pentatonic Scale for Piano|
+|[Musical Modes](https://www.youtube.com/watch?v=a6d7dWwawd8)| Lesson on musical modes|
+```
+Notes:
+Ionian = Major Scale
+Dorian = b3 b7
+Phrygian = b2 b3 b6 b7
+Lydian = #4
+Mixolydian = b7
+Aeolian = b3 b6 b7
+Locrian = b2 b3 b5 b6 b7
+```
 
 ## Guitar
 | Name                                | Description                                          | 
