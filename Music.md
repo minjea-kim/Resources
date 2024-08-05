@@ -38,7 +38,14 @@ Locrian = b2 b3 b5 b6 b7
 |[Shell Chords](https://www.jazzguitar.be/blog/shell-jazz-guitar-chords-beginners/)||
 |[Seventh Chords](https://www.guitar-chord.org/7.html)||
 |[Guitar Chords](https://www.guitar-chord.org/c.htm)||
+|[Guitar G major Scale](https://appliedguitartheory.com/lessons/g-major-scale-on-guitar/)||
+|[Guitar G minor scale](https://appliedguitartheory.com/lessons/natural-minor-scale/)||
 
+
+## Piano
+| Name                                | Description                                          | 
+|:----------------------------------- |:----------------------------------------------------:|
+|[Piano Pentatonic Scale]([https://www.youtube.com/@Samjamguitar/videos](https://www.pianoscales.org/pentatonic.html))|Tutorials|
 
 
 
