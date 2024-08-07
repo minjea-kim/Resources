@@ -26,4 +26,4 @@
 |[You Don't Know JS 2nd Edition](https://github.com/getify/You-Dont-Know-JS)|Book|
 |[You Don't Know JS 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)|Book|
 |[Smashing Magazine](https://www.smashingmagazine.com/)| News about Web Design + Development|
-
+|[GitHub Repos Every Software Dev Should Know](https://dev.to/jrmarcio_/github-repositories-every-software-engineer-should-know-2e80?ref=dailydev)||
