@@ -45,7 +45,8 @@ Locrian = b2 b3 b5 b6 b7
 ## Piano
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:|
-|[Piano Pentatonic Scale]([https://www.youtube.com/@Samjamguitar/videos](https://www.pianoscales.org/pentatonic.html))|Tutorials|
+|[Piano Pentatonic Scale]([https://www.youtube.com/@Samjamguitar/videos](https://www.pianoscales.org/pentatonic.html)|Tutorials|
+|[Jazz Piano](https://www.youtube.com/@NoahKellman)||
 
 
 
