@@ -14,6 +14,10 @@
 |[Doctorate in Jazz in 15 Minutes](https://www.youtube.com/watch?v=GavBrneouV4)|Overview of concepts|
 | [Easy way to remember pentatonic scale](https://www.youtube.com/watch?v=Vj-BOmKgdE4&t=34s)|Pentatonic Scale for Piano|
 |[Musical Modes](https://www.youtube.com/watch?v=a6d7dWwawd8)| Lesson on musical modes|
+|[Pentatonic scales](https://www.pianoscales.org/pentatonic.html)|Major and minor|
+|[Blues scales](https://www.pianoscales.org/blues.html)|Major and minor|
+
+
 ```
 Notes:
 Ionian = Major Scale
@@ -38,8 +42,10 @@ Locrian = b2 b3 b5 b6 b7
 |[Shell Chords](https://www.jazzguitar.be/blog/shell-jazz-guitar-chords-beginners/)||
 |[Seventh Chords](https://www.guitar-chord.org/7.html)||
 |[Guitar Chords](https://www.guitar-chord.org/c.htm)||
-|[Guitar G major Scale](https://appliedguitartheory.com/lessons/g-major-scale-on-guitar/)||
+|[Guitar G major scale](https://appliedguitartheory.com/lessons/g-major-scale-on-guitar/)||
 |[Guitar G minor scale](https://appliedguitartheory.com/lessons/natural-minor-scale/)||
+|[Guitar G major pentatonic scale](https://appliedguitartheory.com/scale/g-major-pentatonic-scale/)||
+|[Guitar G minor pentatonic scale](https://appliedguitartheory.com/scale/g-minor-pentatonic-scale/)||
 
 
 ## Piano
@@ -47,6 +53,7 @@ Locrian = b2 b3 b5 b6 b7
 |:----------------------------------- |:----------------------------------------------------:|
 |[Piano Pentatonic Scale]([https://www.youtube.com/@Samjamguitar/videos](https://www.pianoscales.org/pentatonic.html)|Tutorials|
 |[Jazz Piano](https://www.youtube.com/@NoahKellman)||
+
 
 
 
