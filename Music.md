@@ -46,6 +46,7 @@ Locrian = b2 b3 b5 b6 b7
 |[Guitar G minor scale](https://appliedguitartheory.com/lessons/natural-minor-scale/)||
 |[Guitar G major pentatonic scale](https://appliedguitartheory.com/scale/g-major-pentatonic-scale/)||
 |[Guitar G minor pentatonic scale](https://appliedguitartheory.com/scale/g-minor-pentatonic-scale/)||
+|[Common Chord Shapes](https://appliedguitartheory.com/lessons/movable-chord-shapes/)| Sus2, Sus4, etc.|
 
 
 ## Piano
