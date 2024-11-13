@@ -18,6 +18,7 @@
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
 |[Smashing Magazine](https://www.smashingmagazine.com/)|Articles for web designers and developers|
+|[InfoQ](https://www.infoq.com/)|News fordevelopers|
 |[Catch all CS Program](https://teachyourselfcs.com/)|     |
 |[Git Cheatsheet](https://dev.to/star_trooper/git-it-right-git-cheatsheet-4o0h)|     |
 |[Front End System Design Guide](https://javascript.plainenglish.io/front-end-system-design-guide-9a11381f5e81)|     |
