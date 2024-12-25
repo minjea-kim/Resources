@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/f7d5a853-27bc-4c00-8f37-1693a6b12e1d)
 
 ```
-Notes:
+Musical Modes:
 Ionian = Major Scale
 Dorian = b3 b7
 Phrygian = b2 b3 b6 b7
@@ -30,6 +30,16 @@ Lydian = #4
 Mixolydian = b7
 Aeolian = b3 b6 b7
 Locrian = b2 b3 b5 b6 b7
+
+Flat ordering:
+Ionian = Major Scale
+Mixolydian = b7
+Dorian = b3 b7
+Aeolian = b3 b6 b7
+Phrygian = b2 b3 b6 b7
+Locrian = b2 b3 b5 b6 b7
+Lydian = #4
+
 ```
 
 ## Guitar
