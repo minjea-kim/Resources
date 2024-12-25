@@ -17,6 +17,7 @@
 |[Pentatonic scales](https://www.pianoscales.org/pentatonic.html)|Major and minor|
 |[Blues scales](https://www.pianoscales.org/blues.html)|Major and minor|
 
+![image](https://github.com/user-attachments/assets/f7d5a853-27bc-4c00-8f37-1693a6b12e1d)
 
 ```
 Notes:
