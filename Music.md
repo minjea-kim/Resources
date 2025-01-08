@@ -17,10 +17,6 @@
 |[Pentatonic scales](https://www.pianoscales.org/pentatonic.html)|Major and minor|
 |[Blues scales](https://www.pianoscales.org/blues.html)|Major and minor|
 
-
-## Works well with Dominant 7th chords
-![image](https://github.com/user-attachments/assets/f7d5a853-27bc-4c00-8f37-1693a6b12e1d)
-
 ```
 Musical Modes:
 Ionian = Major Scale
@@ -31,7 +27,7 @@ Mixolydian = b7
 Aeolian = b3 b6 b7
 Locrian = b2 b3 b5 b6 b7
 
-Flat ordering:
+Modes ordered in flats:
 Ionian = Major Scale
 Mixolydian = b7
 Dorian = b3 b7
