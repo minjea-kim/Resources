@@ -57,6 +57,7 @@ Lydian = #4
 |[Guitar G minor pentatonic scale](https://appliedguitartheory.com/scale/g-minor-pentatonic-scale/)||
 |[Common Chord Shapes](https://appliedguitartheory.com/lessons/movable-chord-shapes/)| Sus2, Sus4, etc.|
 |[Ross Campbell](https://www.youtube.com/@RossCampbellGuitarist/videos)|Guitar Lessons|
+|[3 Exercises for familiarizing with fretboard](https://www.youtube.com/watch?v=KlsSqdMWUns&t=797s)|Video by Ross Campbell|
 
 ## Piano
 | Name                                | Description                                          | 
