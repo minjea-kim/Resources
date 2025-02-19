@@ -16,6 +16,7 @@
 |[Musical Modes](https://www.youtube.com/watch?v=a6d7dWwawd8)| Lesson on musical modes|
 |[Pentatonic scales](https://www.pianoscales.org/pentatonic.html)|Major and minor|
 |[Blues scales](https://www.pianoscales.org/blues.html)|Major and minor|
+|[Improvising classical music on piano](https://www.youtube.com/watch?v=YwWC6iRIASE)||
 
 ```
 Musical Modes:
