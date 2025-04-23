@@ -18,6 +18,7 @@
 |[Blues scales](https://www.pianoscales.org/blues.html)|Major and minor|
 |[Improvising classical music on piano](https://www.youtube.com/watch?v=YwWC6iRIASE)||
 |[Improvising classical music on piano 2](https://www.youtube.com/watch?v=lksxK2LzKy4)||
+|[OrcastraStudio](https://www.youtube.com/@OrcastraStudio/videos)|General music theory|
 ```
 Musical Modes:
 Ionian = Major Scale
