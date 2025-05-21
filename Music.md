@@ -7,6 +7,7 @@
 |[CountryGuitarOnline](https://countryguitaronline.com/chords-in-each-major-key/)|Chords in each Major key|
 |[Jazz Theory](https://www.youtube.com/@Learnjazzstandards)||
 |[Walk That Bass](https://www.youtube.com/@WalkThatBass/videos)|Piano and Music Theory|
+|[Noah Kellman](https://www.youtube.com/@NoahKellman/videos)|Piano and Music Theory (Jazz)|
 |[Jazz Tutoria](https://www.youtube.com/user/jazztutorial)||
 |[12tone](https://www.youtube.com/watch?v=JtRvGL-fJmY&list=PLMvVESrbjBWplAcg3pG0TesncGT7qvO06&index=12)||
 |[Pianote](https://www.youtube.com/watch?v=vzujwexshe4)||
