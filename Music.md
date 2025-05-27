@@ -95,7 +95,7 @@ Lydian = #4
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
 |[Getting a jazz sound](https://www.youtube.com/watch?v=xux7EugWjSw)||
-|[]()||
+|[DeMarius Jackson](https://www.youtube.com/@DeMariusJackson/videos)|Tutorials|
 |[]()||
 |[]()||
 |[]()||
