@@ -20,6 +20,7 @@
 |[Improvising classical music on piano](https://www.youtube.com/watch?v=YwWC6iRIASE)||
 |[Improvising classical music on piano 2](https://www.youtube.com/watch?v=lksxK2LzKy4)||
 |[OrcastraStudio](https://www.youtube.com/@OrcastraStudio/videos)|General music theory|
+|[Modal Sequencing](https://www.youtube.com/watch?v=XsskdUm_1rQ)||
 ```
 Musical Modes:
 Ionian = Major Scale
