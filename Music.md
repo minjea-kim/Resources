@@ -2,6 +2,7 @@
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
 |[Adam Neely](https://www.youtube.com/watch?v=lz3WR-F_pnM)|Lessons|
+|[Michael Keithston](https://www.youtube.com/@michaelkeithson)|Pretty good music theory|
 |[Pugetsound](http://musictheory.pugetsound.edu/mt21c/SimpleSusChords.html)||
 |[SignalsMusicStudio](https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA)||
 |[CountryGuitarOnline](https://countryguitaronline.com/chords-in-each-major-key/)|Chords in each Major key|
