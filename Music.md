@@ -98,7 +98,7 @@ Lydian = #4
 |:----------------------------------- |:----------------------------------------------------:| 
 |[Getting a jazz sound](https://www.youtube.com/watch?v=xux7EugWjSw)||
 |[DeMarius Jackson](https://www.youtube.com/@DeMariusJackson/videos)|Tutorials|
-|[]()||
-|[]()||
+|[Subtone Lesson](https://www.youtube.com/watch?v=fFDe7Nyc3JM&t=4s)||
+|[Ghosting Lesson](https://www.youtube.com/watch?v=BI4QsHVN1HY)||
 |[]()||
 |[]()||
