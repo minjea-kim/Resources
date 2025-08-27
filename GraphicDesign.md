@@ -37,3 +37,8 @@
 |:----------------------------------- |:----------------------------------------------------:| 
 |[Icons / SVGs](https://iconscout.com/icons/)||
 
+
+## News
+| Name                                | Description                                          | 
+|:----------------------------------- |:----------------------------------------------------:| 
+|[It's Nice That]([https://iconscout.com/icons/](https://www.itsnicethat.com/insights-opinion))|Recent News and Opinions|
