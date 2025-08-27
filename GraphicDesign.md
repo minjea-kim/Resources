@@ -41,4 +41,5 @@
 ## News
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
-|[It's Nice That]([https://iconscout.com/icons/](https://www.itsnicethat.com/insights-opinion))|Recent News and Opinions|
+|[It's Nice That](https://iconscout.com/icons/](https://www.itsnicethat.com/insights-opinion)|Recent News and Opinions|
+|[CreativeBoom](https://www.creativeboom.com/inspiration/)|News and Inspiration|
