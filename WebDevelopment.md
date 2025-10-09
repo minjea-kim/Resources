@@ -12,7 +12,7 @@
 |[CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)|Concepts|
 |[Coding with John](https://www.youtube.com/@CodingWithJohn/videos)|Concepts|
 |[ByteByteGo](https://www.youtube.com/@ByteByteGo)|Good backend videos|
-
+|[The Coding Gopher](https://www.youtube.com/@TheCodingGopher/videos)|Concepts|
 
 ## Misc.
 | Name                                | Description                                          | 
