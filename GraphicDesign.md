@@ -22,6 +22,7 @@
 |[Codegrid](https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw)||
 |[Cuberto Design](https://www.youtube.com/channel/UCzestFrXpwSGCfcbO2pObwQ)||
 |[Hyperplexed](https://www.youtube.com/@Hyperplexed/videos)||
+|[NN Group](https://www.youtube.com/@NNgroup/videos)|UI/UX Lessons|
 
 ## Davinci
 | Name                                | Description                                          | 
