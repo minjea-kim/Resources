@@ -13,6 +13,7 @@
 |[Coding with John](https://www.youtube.com/@CodingWithJohn/videos)|Concepts|
 |[ByteByteGo](https://www.youtube.com/@ByteByteGo)|Good backend videos|
 |[The Coding Gopher](https://www.youtube.com/@TheCodingGopher/videos)|Concepts|
+|[awesome](https://www.youtube.com/@awesome-coding/videos)|Misc.|
 
 ## Misc.
 | Name                                | Description                                          | 
