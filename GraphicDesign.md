@@ -36,7 +36,7 @@
 ## Resources
 | Name                                | Description                                          | 
 |:----------------------------------- |:----------------------------------------------------:| 
-|[Icons / SVGs](https://iconscout.com/icons/)||
+|[Icons / SVGs](https://www.svgrepo.com/)||
 
 
 ## News
